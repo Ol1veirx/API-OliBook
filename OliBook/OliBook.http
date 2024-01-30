@@ -1,0 +1,6 @@
+@OliBook_HostAddress = http://localhost:5220
+
+GET {{OliBook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
